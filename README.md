@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mochhary
-- 👀 I’m interested in mobile programming
-- 🌱 I’m currently learning dart and flutter
+- 👀 I’m interested in web and mobile programming
+- 🌱 I’m currently learning laravel and flutter
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me oninsta : mchhary.14
 - 😄 Pronouns: i am a men
